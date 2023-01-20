@@ -9,8 +9,7 @@
 </head>
 
 <body>
-    <footer class="">
-
+    <footer class=""  id="Back-img">
         <div class="container pt-5">
             <div class="row">
                 <div class="col-6">
@@ -101,7 +100,6 @@
                 </div>
             </div>
         </div>
-
     </footer>
 </body>
 
